@@ -1,3 +1,4 @@
+FROM ubuntu:xenial
 MAINTAINER appserv.nl
 
 EXPOSE 3389
