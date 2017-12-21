@@ -23,6 +23,7 @@ RUN usermod -a -G dialout root \
    wget \
    sudo \
    net-tools \
+   sqlite3 \
    ca-certificates \
    unzip \
    apt-transport-https \
